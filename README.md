@@ -7,18 +7,18 @@ Language: Java <br/>
 UI Framework: Java Swing <br/>
 
 # 🔹 Game Features:
-
 ### 🎬 Main Menu  
-![Main Menu](https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/start.png)  
+<img src="https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/start.png" alt="Main Menu" width="100" height="100"/>
 
 ### 🔑 Log In  
-![Log In](https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/login.png)   
+<img src="https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/login.png" alt="Log In" width="100" height="100"/>
 
 ### 🎯 Game Levels  
-![Game Levels](https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/levels.png) 
+<img src="https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/levels.png" alt="Game Levels" width="100" height="100"/>
 
 ### 🎮 Gameplay  
-![Gameplay](https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/play.png) 
+<img src="https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/play.png" alt="Gameplay" width="100" height="100"/>
 
 ### 💀 Game Over  
-![Game Over](https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/game_over.png) 
+<img src="https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/game_over.png" alt="Game Over" width="100" height="100"/>
+
