@@ -8,17 +8,17 @@ UI Framework: Java Swing <br/>
 
 # 🔹 Game Features:
 
-### 🟢 Game Menu  
-![Main Menu](screenshots/main_menu.png)  
+### 🎬 Main Menu  
+![Main Menu](https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/start.png)  
 
-### 🟢 Game Levels 
-![Main Menu](screenshots/main_menu.png) 
+### 🔑 Log In  
+![Log In](https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/login.png)   
 
-### 🔤 Gameplay  
-![In-game Screenshot](screenshots/gameplay.png)  
+### 🎯 Game Levels  
+![Game Levels](https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/levels.png) 
 
-### ❌ Game Gain  
-![Game Over](screenshots/game_over.png)  
+### 🎮 Gameplay  
+![Gameplay](https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/play.png) 
 
-### ❌ Game Over  
-![Game Over](screenshots/game_over.png)  
+### 💀 Game Over  
+![Game Over](https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/game_over.png) 
