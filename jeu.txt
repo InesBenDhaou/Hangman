@@ -1,18 +1,4 @@
-1. NOM : JEU PENDU
-2. CONCEPT : choix aleatoire d'un mot entrer par clavier ( 9 mou7awlet w ymout) m3a kol ghalta nzid chwaya fi rassma
-3. etapes :
-   oul 7aja lazem ne5tar les domaines eli besh ne5dem 3lihom .
-     (puisque a7na prepa besh ne5dem 3al les matieres exemple Reseau (routeur, machine , TCP , protocole , segment , signal , couche ,     transport , .... ) , java (classe interne , classe membre , classe anonyme , interface ...)  
-   
-  interface eli feha el rassma ?!
-  lien eli yhez el google oul maytala3 el kelma wela maytala3hesh .
-  dialogue eli yata3 idha 5arajna kelma s7i7a wela ghalta .
 
-ash mazel na9ess :
-
-fazet akber meni chwaya :
-ki nkabel tetbadel el posotion mta3 l frame ya3ni nkaber el jeu twali fel wosst
-nsala7 el mochkla eli fi hashMap
 
    
    
