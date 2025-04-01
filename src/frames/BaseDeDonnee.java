@@ -1,11 +1,7 @@
 package src.frames;
 import java.util.HashMap;
-import java.util.HashMap.*;
+import src.models.Utilisateur;
 
-
-import javax.lang.model.util.ElementScanner14;
-
-import src.models.*;
 
 
 public class BaseDeDonnee {
