@@ -8,7 +8,7 @@ UI Framework: Java Swing <br/>
 
 # 🔹 Game Features:
 ### 🎬 Main Menu  
-<img src="https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/start.png" alt="Main Menu" width="100" height="100"/>
+<img src="https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/start.png" alt="Main Menu" width="500" height="300"/>
 
 ### 🔑 Log In  
 <img src="https://github.com/InesBenDhaou/Hangman/blob/main/screenshots/login.png" alt="Log In" width="100" height="100"/>
